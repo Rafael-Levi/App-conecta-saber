@@ -1,1 +1,48 @@
 # Documentação principal
+
+# 🎓 Plataforma Conecta Saber
+
+> **Educação de Qualidade ao alcance de todos.** Conectando voluntários a alunos de escolas públicas para transformar realidades através do conhecimento.
+
+![Status do Projeto](https://img.shields.io/badge/status-em_desenvolvimento-yellow)
+![Plataforma](https://img.shields.io/badge/plataforma-Web_%7C_Mobile-blue)
+![Licença](https://img.shields.io/badge/license-MIT-green)
+
+---
+
+## 📖 Sobre o Projeto
+
+A **Plataforma Conecta Saber** é uma solução multiplataforma (Painel Web e App Mobile) dedicada a promover a Educação de Qualidade em escolas públicas situadas em bairros de alta vulnerabilidade social.
+
+O sistema atua como uma ponte segura e organizada entre **voluntários** (universitários e profissionais) e **alunos** que necessitam de reforço escolar e atividades complementares. O foco central é a eficiência no agendamento, a segurança do *matchmaking* e o rastreamento real do impacto educacional.
+
+---
+
+## 🚀 Objetivos e Funcionalidades
+
+O sistema visa resolver o problema de logística e acompanhamento em projetos sociais educacionais.
+
+| Funcionalidade | Descrição |
+| :--- | :--- |
+| **Matchmaking Inteligente** | Cruzamento automático entre a disponibilidade/especialidade do voluntário e a demanda/horário do aluno. |
+| **Gestão de Agendamentos** | Centralização da criação, confirmação e cancelamento de aulas, evitando conflitos de agenda. |
+| **Rastreamento de Impacto** | Ferramentas para professores avaliarem o progresso dos alunos e frequência nas atividades. |
+| **Segurança** | Validação de cadastro de voluntários para garantir um ambiente seguro para os alunos. |
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+*(Edite esta seção com as tecnologias reais do seu projeto)*
+
+* **Mobile:** [Ex: Flutter / React Native / Kotlin]
+* **Web:** [Ex: React.js / Vue.js / Angular]
+* **Backend:** [Ex: Node.js / Python Django / Java Spring]
+* **Banco de Dados:** [Ex: PostgreSQL / Firebase]
+
+---
+
+## 📦 Como Rodar o Projeto
+
+### Acesse o link da aplicação 
+[LINK APP](https://render.com.br)
