@@ -3,10 +3,17 @@
 # 🎓 Plataforma Conecta Saber
 
 > **Educação de Qualidade ao alcance de todos.** Conectando voluntários a alunos de escolas públicas para transformar realidades através do conhecimento.
+---
+## ⚙️ Papeis de cada membro
 
-![Status do Projeto](https://img.shields.io/badge/status-em_desenvolvimento-yellow)
-![Plataforma](https://img.shields.io/badge/plataforma-Web_%7C_Mobile-blue)
-![Licença](https://img.shields.io/badge/license-MIT-green)
+| Nome | Atividade |
+| :--- | :--- |
+| Alexandre de Oliveira | Desenvolvimento Frontend |
+| Rafael Levi| Desenvolvimento Backend e banco de dados |
+| Vitor Regison | Desenvolvimento Mobile |
+| Felipe Paixão | Levantamento de requisitos |
+| Matheus Alves | Alinhamneto com os stackholders | 
+| Elton Vasconcelos | Validação e desenvolvimento de testes|
 
 ---
 
@@ -35,14 +42,22 @@ O sistema visa resolver o problema de logística e acompanhamento em projetos so
 
 *(Edite esta seção com as tecnologias reais do seu projeto)*
 
-* **Mobile:** [Ex: Flutter / React Native / Kotlin]
-* **Web:** [Ex: React.js / Vue.js / Angular]
-* **Backend:** [Ex: Node.js / Python Django / Java Spring]
-* **Banco de Dados:** [Ex: PostgreSQL / Firebase]
+* **Mobile:** [React Native / Kotlin]
+* **Web:** [React + Vite]
+* **Backend:** [Node.js]
+* **Banco de Dados:** [MySQL]
 
 ---
 
 ## 📦 Como Rodar o Projeto
 
 ### Acesse o link da aplicação 
-[LINK APP](https://render.com.br)
+[LINK APP](https://conecta-saber-web.onrender.com/)
+[LINK BACKEND](https://conecta-saber-backend.onrender.com)
+
+### Acessos do sistema
+| Email | Senha | Role | 
+| :--- | :--- | :--- |
+| vitor2@teste.com | 123456 | Gestor |
+| felipe@teste.com | 123456 | Aluno |
+| vitor@teste.com | 123456 | Professor |
