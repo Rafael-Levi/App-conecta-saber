@@ -56,7 +56,8 @@ O sistema visa resolver o problema de logística e acompanhamento em projetos so
 [LINK BACKEND](https://conecta-saber-backend.onrender.com)
 
 ### Acessos do sistema
-| Email | Senha |
-| :--- | :--- |
-| admin@exemplo.com.br | admin1234 
-|
+| Email | Senha | Role | 
+| :--- | :--- | :--- |
+| vitor2@teste.com | 123456 | Gestor |
+| felipe@teste.com | 123456 | Aluno |
+| vitor@teste.com | 123456 | Professor |
